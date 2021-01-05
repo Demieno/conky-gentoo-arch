@@ -22,6 +22,7 @@
 #conky
 #exit 0
 #-------------------
+#clock in two versions: binary (string 102-103) and numeric (string 101), put what you like ;)
 #change the variables gap_x, gap_y for your monitor
 #replace 'username' and 'passwd' with you !!!!
 #replace NETWORK eno1 on your value $ifconfig
